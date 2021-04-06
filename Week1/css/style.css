@@ -24,7 +24,6 @@ body {
 	color: white;
 	font-size: 2em;
 }
-
 .sidebar {
 	grid-area: sidebar;
 	padding:10px;
